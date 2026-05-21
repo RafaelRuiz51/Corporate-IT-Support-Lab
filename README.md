@@ -29,34 +29,34 @@ Simulated a fully functional corporate IT environment for Ruiz Medical Group usi
 ## Screenshots
 
 ### Virtual Machines
-![Virtual Machines](Active-Directory/VirtualMachines.png)
+![VirtualMachines](Active-Directory/VirtualMachines.png)
 
 ### Windows Server 2022 Loaded
-![Windows Server](Active-Directory/WindowsServerLoaded.png)
+![WindowsServer](Active-Directory/WindowsServerLoaded.png)
 
 ### Active Directory Users
-![AD Users](Active-Directory/DC01users.png)
+![ADUsers](Active-Directory/DC01users.png)
 
 ### HR Users
-![HR Users](Active-Directory/HRusers.png)
+![HRUsers](Active-Directory/HRusers.png)
 
 ### IT Users
-![IT Users](Active-Directory/ITusers.png)
+![ITUsers](Active-Directory/ITusers.png)
 
 ### Sales Users
-![Sales Users](Active-Directory/SalesUsers.png)
+![SalesUsers](Active-Directory/SalesUsers.png)
 
 ### Finance Users
-![Finance Users](Active-Directory/FinanceUsers.png)
+![FinanceUsers](Active-Directory/FinanceUsers.png)
 
 ### HR Group Members
-![HR Group](Active-Directory/HRgroupusers.png)
+![HRGroup](Active-Directory/HRgroupusers.png)
 
 ### GPO Wallpaper Policy
-![Wallpaper GPO](Group-Policy/GPOeditorWallpaper.png)
+![WallpaperGPO](Group-Policy/GPOeditorWallpaper.png)
 
 ### GPO USB Restriction
-![USB GPO](Group-Policy/GPOusbRestriction.png)
+![USBGPO](Group-Policy/GPOusbRestriction.png)
 
 ### GPO Control Panel Disabled
 ![Control Panel GPO](Group-Policy/GPOshowingControlPanelDisabled.png)
