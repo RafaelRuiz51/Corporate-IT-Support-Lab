@@ -77,7 +77,7 @@ Simulated a fully functional corporate IT environment for Ruiz Medical Group usi
 ![Bulk Users](PowerShell/NewuserMade.png)
 
 ### Unlock Accounts Script
-![Unlock](PowerShell/mlopezUnlocked.png)
+![Unlock](PowerShell/mlopezunlocked.png)
 
 ### Inactive Users Report
 ![Inactive Users](PowerShell/InactiveUsers.png)
