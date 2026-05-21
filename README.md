@@ -80,4 +80,4 @@ Simulated a fully functional corporate IT environment for Ruiz Medical Group usi
 ![Unlock](PowerShell/mlopezunlocked.png)
 
 ### Inactive Users Report
-![Inactive Users](PowerShell/InactiveUsers.ps1)
+![Inactive Users](PowerShell/InactiveUsers.png)
